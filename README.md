@@ -18,14 +18,14 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 🐱 About Me
 
-[![Naver Badge](https://img.shields.io/badge/naver-#03C75A?style=flat-square&logo=naver&logoColor=#03C75A&link=mailto:qw12345611@naver.com)](qw12345611@naver.com)
-  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300)](https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300)
-  [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@baeyuna97)](https://velog.io/@baeyuna97)
+  [![Naver Badge](https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:qw12345611@naver.com)](qw12345611@naver.com)
+  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/BackEnd-Developer-1d0162f6eeff40aab8d81c4fff8c7e8c?pvs=4)](https://www.notion.so/BackEnd-Developer-1d0162f6eeff40aab8d81c4fff8c7e8c?pvs=4)
+  [![tistory Badge](https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white&link=https://garims.tistory.com/)](https://garims.tistory.com/)
 
 
 🏅 Algorithm Gold Level. 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuna1do)](https://solved.ac/yuna1do/)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qw12345611)](https://solved.ac/qw12345611/)  
 Programmers - Lv3  
 Samsung SW *Pro Level*
 
