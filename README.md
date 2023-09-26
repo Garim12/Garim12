@@ -23,6 +23,6 @@ A developer who thinks, researches, creates, and connects to practical realizati
   [![tistory Badge](https://img.shields.io/badge/tistory-000000?style=round-square&logo=tistory&logoColor=white&link=https://garims.tistory.com/)](https://garims.tistory.com/)
 
 
-🏅 Algorithm Level. 
+🏅 Algorithm Level
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qw12345611)](https://solved.ac/qw12345611/)
